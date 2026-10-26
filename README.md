@@ -1,6 +1,6 @@
 # 👨‍💻 Jeferson Rodrigues
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Back-End`**
 
 Me chamo Jeferson Rodrigues da Silva, tenho 21 anos e sou de São Paulo. Concluí o ensino médio em 2023. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP. Sou apaixonado por tecnologia e desenvolvimento FullStack, e... estou buscando minha primeira oportunidade na área de tecnologia, com foco em desenvolvimento web, onde eu possa evoluir constantemente, adquirir experiência prática e crescer profissionalmente.
 
